@@ -3,7 +3,7 @@
 A powerful Telegram bot tracker that analyzes tokens on RobinPump on Base chain. Get instant token information and bubble maps visualization using BubbleMaps. Access real-time token ownership distribution, market data, and decentralization metrics directly in Telegram, for both private chats and communities.
 
 <p align="center">
-  <a href="https://t.me/robinbubble">
+  <a href="https://t.me/robinbubblebot">
     <img src="https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram" alt="Telegram Bot">
   </a>
   <img src="https://img.shields.io/badge/Version-v1.2.0_Beta-green" alt="Version">
@@ -73,8 +73,8 @@ Click the image above to watch the demo on YouTube.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/incryptomax/bubblemapstelegrambot.git
-cd bubblemapstelegrambot
+git clone https://github.com/Lem0nTree/RobinBubble.git
+cd RobinBubble
 ```
 
 2. Install dependencies:
@@ -159,7 +159,7 @@ Adding RobinBubble to your community enhances your group's capabilities for anal
 ### Step 1: Add the Bot to Your Group
 
 1. **Search for the Bot**: 
-   - Search for [@robinbubble](https://t.me/robinbubble) in Telegram
+   - Search for [@robinbubble](https://t.me/robinbubblebot) in Telegram
 
 2. **Add to Group**:
    - Start a chat with the bot and click the three dots (⋮) in the top right
@@ -225,7 +225,7 @@ logs/
 
 ## 👨‍💻 Author
 
-[incryptomax](https://github.com/incryptomax)
+[lem0ntree](https://github.com/lem0ntree)
 
 ## 📜 License
 
